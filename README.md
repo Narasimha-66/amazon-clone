@@ -36,8 +36,8 @@ amazon-clone/
 Inspired by Amazon.com for educational purpose only.
 
 # Connect With Me
-[GitHub](Narasimha-66)
-[LinkedIn](www.linkedin.com/in/narasimha-jaladurgam-90266624b)
+[GitHub](https://github.com/Narasimha-66)
+[LinkedIn](https://www.linkedin.com/in/narasimha-jaladurgam-90266624b)
  
 
 
